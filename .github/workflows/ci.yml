@@ -53,5 +53,5 @@ jobs:
           context: .
           push: true
           tags: |
-            viktorov13/12:${{ github.ref_name }}
-            viktorov13/12:latest
+            ev13/12:${{ github.ref_name }}
+            ev13/12:latest
